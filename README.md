@@ -37,7 +37,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ## Project Steps
-# 1 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+### 1 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
 
@@ -49,17 +49,17 @@ Data cleaning
 
 Connection to SQL Database
 
-# 2 Load the data from Python notebook into PostgreSQL
+### 2 Load the data from Python notebook into PostgreSQL
 
 Create a database in SQL
 
 Run Python code to load data into SQL database
 
-# 3 Open customer_behavior_sql_queries.sql
+### 3 Open customer_behavior_sql_queries.sql
 
 Answer Business Questions using SQL Queries
 
-# 4 Connect the SQL Database to Power BI
+### 4 Connect the SQL Database to Power BI
 
 Open customer_behavior_dashboard.pbix
 
