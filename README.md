@@ -16,7 +16,7 @@ Purchase details — Product, Category, Amount, Season, Size, Color
 
 Behavior metrics — Discount Applied, Frequency, Review Rating, Shipping Type
 
-##🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Python: pandas
 
@@ -27,7 +27,7 @@ Visualization: Power BI
 Environment: Jupyter Notebook 
 
  
- ## Project Overview
+## Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
