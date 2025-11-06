@@ -1,4 +1,4 @@
-##### Customer Behavior Data Analyst Project
+### Customer Behavior Data Analyst Project
 ## Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover spending trends, key segments, and product preferences. The goal is to generate data-driven insights for improving marketing strategies, customer retention, and overall revenue growth.
